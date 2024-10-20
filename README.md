@@ -11,7 +11,7 @@ AtliQ Hardware, a leading global supplier of computer hardware and peripherals. 
   
    *3.* Create Pofit and Loss (P&L) reports by [Fiscal Year](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Fiscal%20Year.pdf)
 
-    *4.* Create Pofit and Loss (P&L) reports by [Months & Quaters](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Months%20and%20Quaters.pdf)
+    *4.* Create Pofit and Loss (P&L) reports by [Months & Quaters](https://github.com/Tabshills/Exel-sales-analysis/blob/main/Profit%20and%20Loss%20by%20Quarter%20Including%20Comparison.pdf)
   
 ### Sales Analytics  
 I performed a thorough examination of net sales performance, conducting a comprehensive analysis that encompassed multiple dimensions such as year, customer, market, product, growth, and division. The objective of sales analytics is to enable businesses to systematically observe and assess their sales overall performance.
