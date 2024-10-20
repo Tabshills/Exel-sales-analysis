@@ -9,7 +9,7 @@ AtliQ Hardware, a leading global supplier of computer hardware and peripherals. 
 
     *2.* Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/Tabshills/Exel-sales-analysis/blob/main/Market%20Performance%20vs%20Target.pdf)
   
-   *3.* Create Pofit and Loss (P&L) reports by [Fiscal Year](https://github.com/emeka2103/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Fiscal%20Year.pdf)
+   *3.* Create Pofit and Loss (P&L) reports by [Fiscal Year](https://github.com/Tabshills/Exel-sales-analysis/blob/main/Profit%20and%20Loss%20by%20fiscal%20year.pdf)
 
     *4.* Create Pofit and Loss (P&L) reports by [Months & Quaters](https://github.com/Tabshills/Exel-sales-analysis/blob/main/Profit%20and%20Loss%20by%20Quarter%20Including%20Comparison.pdf)
   
